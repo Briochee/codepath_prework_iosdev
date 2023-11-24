@@ -17,15 +17,16 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
-
 <div>
+    <a href="https://www.loom.com/share/69add03a4bde4ffd81ba6057bfb892ca"></a>
     <a href="https://www.loom.com/share/69add03a4bde4ffd81ba6057bfb892ca">
+        <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/69add03a4bde4ffd81ba6057bfb892ca-with-play.gif">   
     </a>
-    <a href="https://www.loom.com/share/69add03a4bde4ffd81ba6057bfb892ca">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/69add03a4bde4ffd81ba6057bfb892ca-with-play.gif">
+    <a href="https://www.loom.com/share/c505bb04bae54218a1e73e50bd5ff077"></a>
+    <a href="https://www.loom.com/share/c505bb04bae54218a1e73e50bd5ff077">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c505bb04bae54218a1e73e50bd5ff077-with-play.gif">
     </a>
-  </div>
+</div>
 
 ## App Brainstorming (Step 4)
  -instagram, snapchat, (most social media apps): the ability to quickly message friends and family, from long stories to short recaps
