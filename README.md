@@ -28,6 +28,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   </div>
 
 ## App Brainstorming (Step 4)
+ -instagram, snapchat, (most social media apps): the ability to quickly message friends and family, from long stories to short recaps
+ -pokemon go: (i assume) they implement object oriented programming to make a detailed and meticulious game
+ -wikipedia: simple and on-brand UI, few ads
+ -facetime: concept, i enjoy the ability to call and see those close to me
+ -any app with a dark mode
+ -spotify: great app, decent UI design, spotify wrapped -- making a personal review of related data (users music choice)
 
 ## Notes
 
